@@ -18,12 +18,32 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>/post/notes-on-spatial-stats/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/spatial-effects/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/spatial-statistics/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -69,16 +89,6 @@
   
   <url>
     <loc>/tags/spatial-heterogeneity/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/spatial-statistics/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   

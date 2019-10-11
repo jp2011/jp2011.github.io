@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jan Povala</title>
-    <link>/authors/admin/</link>
-      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jan Povala</description>
+    <title>spatial effects | Jan Povala</title>
+    <link>/tags/spatial-effects/</link>
+      <atom:link href="/tags/spatial-effects/index.xml" rel="self" type="application/rss+xml" />
+    <description>spatial effects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jan Povala 2019</copyright><lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Jan Povala</title>
-      <link>/authors/admin/</link>
+      <title>spatial effects</title>
+      <link>/tags/spatial-effects/</link>
     </image>
     
     <item>
@@ -23,14 +23,6 @@ occurences of a particular disease.&lt;/p&gt;
 
 &lt;p&gt;TBC. (this is a test of the feature)&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Burglary in London: Insights from Statistical Heterogeneous Spatial Point Processes</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
-      <description></description>
     </item>
     
   </channel>

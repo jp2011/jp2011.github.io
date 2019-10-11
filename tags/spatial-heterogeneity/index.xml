@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spatial heterogeneity | Jan Povala</title>
+    <link>/tags/spatial-heterogeneity/</link>
+      <atom:link href="/tags/spatial-heterogeneity/index.xml" rel="self" type="application/rss+xml" />
+    <description>spatial heterogeneity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jan Povala 2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>spatial heterogeneity</title>
+      <link>/tags/spatial-heterogeneity/</link>
+    </image>
+    
+    <item>
+      <title>Burglary in London: Insights from Statistical Heterogeneous Spatial Point Processes</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

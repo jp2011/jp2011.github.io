@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jan Povala</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jan.povala.com/</link>
+      <atom:link href="https://jan.povala.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan Povala</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jan Povala 2019</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://jan.povala.com/img/icon-192.png</url>
       <title>Jan Povala</title>
-      <link>/</link>
+      <link>https://jan.povala.com/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example/</link>
+      <link>https://jan.povala.com/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
+      <guid>https://jan.povala.com/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -37,9 +37,9 @@
     
     <item>
       <title>Accounting for spatial effects</title>
-      <link>/post/notes-on-spatial-stats/</link>
+      <link>https://jan.povala.com/post/notes-on-spatial-stats/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/post/notes-on-spatial-stats/</guid>
+      <guid>https://jan.povala.com/post/notes-on-spatial-stats/</guid>
       <description>&lt;p&gt;This is a collection of my thoughts on why we have to consider spatial effects
 when modelling phenomena that occur on a geographical space. For example,
 occurences of a particular disease.&lt;/p&gt;
@@ -50,17 +50,17 @@ occurences of a particular disease.&lt;/p&gt;
     
     <item>
       <title>Burglary in London: Insights from Statistical Heterogeneous Spatial Point Processes</title>
-      <link>/publication/2019_preprint_spatial_mixtures/</link>
+      <link>https://jan.povala.com/publication/2019_preprint_spatial_mixtures/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_preprint_spatial_mixtures/</guid>
+      <guid>https://jan.povala.com/publication/2019_preprint_spatial_mixtures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://jan.povala.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://jan.povala.com/slides/example/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;

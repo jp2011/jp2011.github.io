@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bayesian mixture model | Jan Povala</title>
-    <link>/tags/bayesian-mixture-model/</link>
-      <atom:link href="/tags/bayesian-mixture-model/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jan.povala.com/tags/bayesian-mixture-model/</link>
+      <atom:link href="https://jan.povala.com/tags/bayesian-mixture-model/index.xml" rel="self" type="application/rss+xml" />
     <description>Bayesian mixture model</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jan Povala 2019</copyright><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://jan.povala.com/img/icon-192.png</url>
       <title>Bayesian mixture model</title>
-      <link>/tags/bayesian-mixture-model/</link>
+      <link>https://jan.povala.com/tags/bayesian-mixture-model/</link>
     </image>
     
     <item>
       <title>Burglary in London: Insights from Statistical Heterogeneous Spatial Point Processes</title>
-      <link>/publication/2019_preprint_spatial_mixtures/</link>
+      <link>https://jan.povala.com/publication/2019_preprint_spatial_mixtures/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_preprint_spatial_mixtures/</guid>
+      <guid>https://jan.povala.com/publication/2019_preprint_spatial_mixtures/</guid>
       <description></description>
     </item>
     

@@ -3,132 +3,130 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-10-12T22:10:48+01:00</lastmod>
+    <loc>https://jan.povala.com/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/notes-on-spatial-stats/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/authors/admin/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/post/notes-on-spatial-stats/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/spatial-effects/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/authors/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/spatial-statistics/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/post/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/tags/spatial-effects/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/tags/spatial-statistics/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bayesian-mixture-model/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/tags/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/burglary/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/publication_types/3/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2019_preprint_spatial_mixtures/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/tags/bayesian-mixture-model/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/crime-model/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/tags/burglary/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/mark-girolami/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/publication/2019_preprint_spatial_mixtures/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/poisson-process/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/tags/crime-model/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/authors/mark-girolami/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/seppo-virtanen/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/tags/poisson-process/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/spatial-heterogeneity/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/publication_types/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/publication/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/authors/seppo-virtanen/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://jan.povala.com/tags/spatial-heterogeneity/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/misc/</loc>
-    <lastmod>2019-10-12T21:19:12+01:00</lastmod>
+    <loc>https://jan.povala.com/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/news/</loc>
-    <lastmod>2019-10-12T22:10:48+01:00</lastmod>
+    <loc>https://jan.povala.com/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-10-12T22:10:48+01:00</lastmod>
+    <loc>https://jan.povala.com/categories/</loc>
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+    <loc>https://jan.povala.com/misc/</loc>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-10-12T22:10:48+01:00</lastmod>
+    <loc>https://jan.povala.com/news/</loc>
   </url>
   
 </urlset>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miscellaneous items | Jan Povala</title>
-    <link>/misc/</link>
-      <atom:link href="/misc/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jan.povala.com/misc/</link>
+      <atom:link href="https://jan.povala.com/misc/index.xml" rel="self" type="application/rss+xml" />
     <description>Miscellaneous items</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jan Povala 2019</copyright>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://jan.povala.com/img/icon-192.png</url>
       <title>Miscellaneous items</title>
-      <link>/misc/</link>
+      <link>https://jan.povala.com/misc/</link>
     </image>
     
   </channel>

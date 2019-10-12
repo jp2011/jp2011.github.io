@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Jan Povala</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jan.povala.com/post/</link>
+      <atom:link href="https://jan.povala.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jan Povala 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jan Povala 2019</copyright><lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://jan.povala.com/img/icon-192.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://jan.povala.com/post/</link>
     </image>
     
     <item>
       <title>Accounting for spatial effects</title>
-      <link>/post/notes-on-spatial-stats/</link>
+      <link>https://jan.povala.com/post/notes-on-spatial-stats/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/post/notes-on-spatial-stats/</guid>
+      <guid>https://jan.povala.com/post/notes-on-spatial-stats/</guid>
       <description>&lt;p&gt;This is a collection of my thoughts on why we have to consider spatial effects
 when modelling phenomena that occur on a geographical space. For example,
 occurences of a particular disease.&lt;/p&gt;

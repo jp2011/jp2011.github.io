@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Jan Povala</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jan.povala.com/tags/</link>
+      <atom:link href="https://jan.povala.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jan Povala 2019</copyright><lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://jan.povala.com/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://jan.povala.com/tags/</link>
     </image>
     
     <item>
       <title>spatial effects</title>
-      <link>/tags/spatial-effects/</link>
+      <link>https://jan.povala.com/tags/spatial-effects/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/spatial-effects/</guid>
+      <guid>https://jan.povala.com/tags/spatial-effects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spatial statistics</title>
-      <link>/tags/spatial-statistics/</link>
+      <link>https://jan.povala.com/tags/spatial-statistics/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/spatial-statistics/</guid>
+      <guid>https://jan.povala.com/tags/spatial-statistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian mixture model</title>
-      <link>/tags/bayesian-mixture-model/</link>
+      <link>https://jan.povala.com/tags/bayesian-mixture-model/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/bayesian-mixture-model/</guid>
+      <guid>https://jan.povala.com/tags/bayesian-mixture-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>burglary</title>
-      <link>/tags/burglary/</link>
+      <link>https://jan.povala.com/tags/burglary/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/burglary/</guid>
+      <guid>https://jan.povala.com/tags/burglary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>crime model</title>
-      <link>/tags/crime-model/</link>
+      <link>https://jan.povala.com/tags/crime-model/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/crime-model/</guid>
+      <guid>https://jan.povala.com/tags/crime-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poisson process</title>
-      <link>/tags/poisson-process/</link>
+      <link>https://jan.povala.com/tags/poisson-process/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/poisson-process/</guid>
+      <guid>https://jan.povala.com/tags/poisson-process/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spatial heterogeneity</title>
-      <link>/tags/spatial-heterogeneity/</link>
+      <link>https://jan.povala.com/tags/spatial-heterogeneity/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/spatial-heterogeneity/</guid>
+      <guid>https://jan.povala.com/tags/spatial-heterogeneity/</guid>
       <description></description>
     </item>
     

@@ -7,66 +7,10 @@
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jan Povala 2020</copyright><lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jan.povala.com/img/icon-192.png</url>
+      <url>https://jan.povala.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://jan.povala.com/tags/</link>
     </image>
-    
-    <item>
-      <title>spatial effects</title>
-      <link>https://jan.povala.com/tags/spatial-effects/</link>
-      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jan.povala.com/tags/spatial-effects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spatial statistics</title>
-      <link>https://jan.povala.com/tags/spatial-statistics/</link>
-      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jan.povala.com/tags/spatial-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian mixture model</title>
-      <link>https://jan.povala.com/tags/bayesian-mixture-model/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jan.povala.com/tags/bayesian-mixture-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>burglary</title>
-      <link>https://jan.povala.com/tags/burglary/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jan.povala.com/tags/burglary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>crime model</title>
-      <link>https://jan.povala.com/tags/crime-model/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jan.povala.com/tags/crime-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poisson process</title>
-      <link>https://jan.povala.com/tags/poisson-process/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jan.povala.com/tags/poisson-process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spatial heterogeneity</title>
-      <link>https://jan.povala.com/tags/spatial-heterogeneity/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jan.povala.com/tags/spatial-heterogeneity/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

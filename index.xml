@@ -5,12 +5,20 @@
     <link>https://jan.povala.com/</link>
       <atom:link href="https://jan.povala.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan Povala</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jan Povala 2020</copyright><lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jan Povala 2020</copyright><lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jan.povala.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jan Povala</title>
       <link>https://jan.povala.com/</link>
     </image>
+    
+    <item>
+      <title>Burglary in London: Insights from Statistical Heterogeneous Spatial Point Processes</title>
+      <link>https://jan.povala.com/publication/2020_spatial_poisson_mixtures/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://jan.povala.com/publication/2020_spatial_poisson_mixtures/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Accounting for spatial effects</title>
@@ -22,14 +30,6 @@ when modelling phenomena that occur on a geographical space. For example,
 occurences of a particular disease.&lt;/p&gt;
 &lt;p&gt;TBC. (this is a test of the feature)&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Burglary in London: Insights from Statistical Heterogeneous Spatial Point Processes</title>
-      <link>https://jan.povala.com/publication/2019_preprint_spatial_mixtures/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jan.povala.com/publication/2019_preprint_spatial_mixtures/</guid>
-      <description></description>
     </item>
     
     <item>

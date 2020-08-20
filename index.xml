@@ -5,7 +5,7 @@
     <link>https://jan.povala.com/</link>
       <atom:link href="https://jan.povala.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan Povala</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jan Povala 2020</copyright><lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jan Povala 2020</copyright><lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jan.povala.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jan Povala</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Burglary in London: Insights from Statistical Heterogeneous Spatial Point Processes</title>
       <link>https://jan.povala.com/publication/2020_spatial_poisson_mixtures/</link>
-      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://jan.povala.com/publication/2020_spatial_poisson_mixtures/</guid>
       <description></description>
     </item>
@@ -157,6 +157,14 @@ Three
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Understanding London Crime with Log-Gaussian Cox Processes</title>
+      <link>https://jan.povala.com/publication/2018-lgcp-process-london-crime-mres-thesis/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://jan.povala.com/publication/2018-lgcp-process-london-crime-mres-thesis/</guid>
+      <description></description>
     </item>
     
   </channel>

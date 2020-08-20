@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Jan Povala</title>
+    <link>https://jan.povala.com/publication_types/7/</link>
+      <atom:link href="https://jan.povala.com/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jan Povala 2020</copyright><lastBuildDate>Thu, 16 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jan.povala.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>7</title>
+      <link>https://jan.povala.com/publication_types/7/</link>
+    </image>
+    
+    <item>
+      <title>Understanding London Crime with Log-Gaussian Cox Processes</title>
+      <link>https://jan.povala.com/publication/2018-lgcp-process-london-crime-mres-thesis/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://jan.povala.com/publication/2018-lgcp-process-london-crime-mres-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

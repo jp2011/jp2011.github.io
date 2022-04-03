@@ -1,7 +1,13 @@
-@unpublished{povalaVariationalBayesianInference2021,
-  type = {Working Paper.},
-  title = {Variational {{Bayesian Inference}} Using {{Sparse Matrices}} for {{PDE Inverse Problems}}},
-  author = {Povala, Jan and Kazlauskaite, Ieva and Febrianto, Eky and Cirak, Fehmi and Girolami, Mark},
-  year = {2021},
-  month = sep
+@article{POVALA2022114712,
+title = {Variational Bayesian approximation of inverse problems using sparse precision matrices},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {393},
+pages = {114712},
+year = {2022},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2022.114712},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782522000822},
+author = {Jan Povala and Ieva Kazlauskaite and Eky Febrianto and Fehmi Cirak and Mark Girolami},
+keywords = {Inverse problems, Bayesian inference, Variational Bayes, Precision matrix, Uncertainty quantification},
+abstract = {Inverse problems involving partial differential equations (PDEs) are widely used in science and engineering. Although such problems are generally ill-posed, different regularisation approaches have been developed to ameliorate this problem. Among them is the Bayesian formulation, where a prior probability measure is placed on the quantity of interest. The resulting posterior probability measure is usually analytically intractable. The Markov Chain Monte Carlo (MCMC) method has been the go-to method for sampling from those posterior measures. MCMC is computationally infeasible for large-scale problems that arise in engineering practice. Lately, Variational Bayes (VB) has been recognised as a more computationally tractable method for Bayesian inference, approximating a Bayesian posterior distribution with a simpler trial distribution by solving an optimisation problem. In this work, we argue, through an empirical assessment, that VB methods are a flexible and efficient alternative to MCMC for this class of problems. We propose a natural choice of a family of Gaussian trial distributions parametrised by precision matrices, thus taking advantage of the inherent sparsity of the inverse problem encoded in its finite element discretisation. We utilise stochastic optimisation to efficiently estimate the variational objective and assess not only the error in the solution mean but also the ability to quantify the uncertainty of the estimate. We test this on PDEs based on the Poisson equation in 1D and 2D. A Tensorflow implementation is made publicly available on GitHub.}
 }

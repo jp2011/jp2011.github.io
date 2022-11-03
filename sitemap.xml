@@ -1,206 +1,136 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://jan.povala.com/authors/admin/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/publication_types/7/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/authors/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/tags/bayesian-inverse-problem/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/publication/2022-phd-thesis/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/publication_types/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/publication/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/tags/spatial-mixture-model/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/tags/spatial-statistics/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/tags/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/tags/variational-bayes/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jan.povala.com/publication_types/2/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jan.povala.com/authors/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/tags/bayesian-inverse-problems/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/authors/eky-febrianto/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/authors/fehmi-cirak/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/authors/ieva-kazlauskaite/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jan.povala.com/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/authors/mark-girolami/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/tags/precision-matrix/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jan.povala.com/publication_types/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jan.povala.com/publication/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jan.povala.com/tags/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/tags/uncertainty-quantification/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/publication/2021_vi_for_bip/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/tags/variational-inference/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/publication/2021_crime_spillovers/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/publication_types/3/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/tags/crime-model/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/tags/domestic-abuse/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/tags/hawkes-process/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/authors/lara-vomfell/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jan.povala.com/tags/spatial-statistics/</loc>
-    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/tags/spatio-temporal-triggering/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/tags/bayesian-mixture-model/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/tags/burglary/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/publication/2020_spatial_poisson_mixtures/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/tags/poisson-process/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/authors/seppo-virtanen/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/tags/spatial-heterogeneity/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/post/notes-on-spatial-stats/</loc>
     <lastmod>2019-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/post/</loc>
     <lastmod>2019-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/tags/spatial-effects/</loc>
     <lastmod>2019-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jan.povala.com/publication_types/7/</loc>
-    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/publication/2018-lgcp-process-london-crime-mres-thesis/</loc>
     <lastmod>2018-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/misc/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/news/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jan.povala.com/talk/</loc>
   </url>
-  
 </urlset>

@@ -3,12 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jan.povala.com/authors/admin/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jan.povala.com/publication_types/7/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+    <loc>https://jan.povala.com/publication/2023_crime_spillovers/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/publication_types/2/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jan.povala.com/authors/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/tags/crime-model/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/tags/domestic-abuse/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/tags/hawkes-process/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/authors/lara-vomfell/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/publication_types/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/publication/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/tags/spatial-statistics/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/tags/spatio-temporal-triggering/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/tags/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jan.povala.com/publication_types/7/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jan.povala.com/tags/bayesian-inverse-problem/</loc>
@@ -17,29 +53,11 @@
     <loc>https://jan.povala.com/publication/2022-phd-thesis/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jan.povala.com/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jan.povala.com/publication_types/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jan.povala.com/publication/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jan.povala.com/tags/spatial-mixture-model/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jan.povala.com/tags/spatial-statistics/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jan.povala.com/tags/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jan.povala.com/tags/variational-bayes/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jan.povala.com/publication_types/2/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jan.povala.com/tags/bayesian-inverse-problems/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
@@ -67,27 +85,6 @@
   </url><url>
     <loc>https://jan.povala.com/tags/variational-inference/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jan.povala.com/publication/2021_crime_spillovers/</loc>
-    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jan.povala.com/publication_types/3/</loc>
-    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jan.povala.com/tags/crime-model/</loc>
-    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jan.povala.com/tags/domestic-abuse/</loc>
-    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jan.povala.com/tags/hawkes-process/</loc>
-    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jan.povala.com/authors/lara-vomfell/</loc>
-    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jan.povala.com/tags/spatio-temporal-triggering/</loc>
-    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jan.povala.com/tags/bayesian-mixture-model/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
